@@ -1,0 +1,182 @@
+[
+    {
+        "category": "Smartphones",
+        "products": [
+            {
+                "product_id": 1,
+                "product_title": "iPhone 14 Pro",
+                "product_img": "https://images.unsplash.com/photo-1671233163918-5fcbdeb18f0a",
+                "price": 1199,
+                "description": "Apple iPhone 14 Pro with A16 Bionic chip and advanced camera system.",
+                "specification": [
+                    "6.1-inch OLED Display",
+                    "A16 Bionic Chip",
+                    "48MP Main Camera",
+                    "iOS 16"
+                ],
+                "availability": true,
+                "rating": 4.9
+            },
+            {
+                "product_id": 2,
+                "product_title": "Samsung Galaxy S23 Ultra",
+                "product_img": "https://images.unsplash.com/photo-1679762686026-2a72c6cf0a7e",
+                "price": 1099,
+                "description": "Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2 and 200MP camera.",
+                "specification": [
+                    "6.8-inch AMOLED Display",
+                    "Snapdragon 8 Gen 2",
+                    "200MP Camera",
+                    "Android 13"
+                ],
+                "availability": true,
+                "rating": 4.8
+            },
+            {
+                "product_id": 3,
+                "product_title": "Google Pixel 7 Pro",
+                "product_img": "https://images.unsplash.com/photo-1664967650045-0c8702f6bfb1",
+                "price": 899,
+                "description": "Google Pixel 7 Pro with Tensor G2 chip and best-in-class AI features.",
+                "specification": [
+                    "6.7-inch OLED Display",
+                    "Google Tensor G2",
+                    "50MP Camera",
+                    "Android 13"
+                ],
+                "availability": true,
+                "rating": 4.7
+            },
+            {
+                "product_id": 4,
+                "product_title": "OnePlus 11",
+                "product_img": "https://images.unsplash.com/photo-1688385678909-1290a8c7bb1f",
+                "price": 799,
+                "description": "OnePlus 11 flagship smartphone with Snapdragon 8 Gen 2 and fast charging.",
+                "specification": [
+                    "6.7-inch AMOLED",
+                    "Snapdragon 8 Gen 2",
+                    "100W Fast Charging",
+                    "Android 13"
+                ],
+                "availability": true,
+                "rating": 4.6
+            },
+            {
+                "product_id": 5,
+                "product_title": "Xiaomi 13 Pro",
+                "product_img": "https://images.unsplash.com/photo-1676629182271-18d2d8a2f1f7",
+                "price": 699,
+                "description": "Xiaomi 13 Pro with Leica camera system and Snapdragon 8 Gen 2.",
+                "specification": [
+                    "6.73-inch AMOLED",
+                    "Snapdragon 8 Gen 2",
+                    "120W Fast Charging",
+                    "Android 13"
+                ],
+                "availability": false,
+                "rating": 4.5
+            },
+            {
+                "product_id": 6,
+                "product_title": "Sony Xperia 1 IV",
+                "product_img": "https://images.unsplash.com/photo-1659975288394-f3d3e86e2ce9",
+                "price": 1299,
+                "description": "Sony Xperia 1 IV with 4K HDR OLED display and pro-level camera features.",
+                "specification": [
+                    "6.5-inch 4K HDR OLED",
+                    "Snapdragon 8 Gen 1",
+                    "12MP Triple Camera",
+                    "Android 12"
+                ],
+                "availability": true,
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "category": "Laptops",
+        "products": [
+            {
+                "product_id": 7,
+                "product_title": "MacBook Pro 16-inch",
+                "product_img": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+                "price": 2499,
+                "description": "Apple MacBook Pro 16-inch with M2 Pro chip for professionals.",
+                "specification": [
+                    "16-inch Liquid Retina XDR",
+                    "M2 Pro Chip",
+                    "32GB RAM",
+                    "1TB SSD"
+                ],
+                "availability": true,
+                "rating": 4.9
+            },
+            {
+                "product_id": 8,
+                "product_title": "Dell XPS 13 Plus",
+                "product_img": "https://images.unsplash.com/photo-1587202372775-e229f172b9b1",
+                "price": 1599,
+                "description": "Dell XPS 13 Plus ultrabook with edge-to-edge display.",
+                "specification": [
+                    "13.4-inch InfinityEdge",
+                    "Intel i7 13th Gen",
+                    "16GB RAM",
+                    "512GB SSD"
+                ],
+                "availability": true,
+                "rating": 4.7
+            },
+            {
+                "product_id": 9,
+                "product_title": "Asus ROG Zephyrus G14",
+                "product_img": "https://images.unsplash.com/photo-1625314868143-020b0d3facc3",
+                "price": 1799,
+                "description": "Asus ROG Zephyrus G14 gaming laptop with RTX 4070.",
+                "specification": [
+                    "14-inch QHD Display",
+                    "Ryzen 9 7940HS",
+                    "RTX 4070",
+                    "1TB SSD"
+                ],
+                "availability": false,
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "category": "Accessories",
+        "products": [
+            {
+                "product_id": 10,
+                "product_title": "Sony WH-1000XM5",
+                "product_img": "https://images.unsplash.com/photo-1618365908648-7c238c27c237",
+                "price": 399,
+                "description": "Sony WH-1000XM5 wireless headphones with industry-leading noise cancellation.",
+                "specification": [
+                    "40mm Drivers",
+                    "Noise Cancelling",
+                    "30 Hours Battery",
+                    "Bluetooth 5.2"
+                ],
+                "availability": true,
+                "rating": 4.9
+            },
+            {
+                "product_id": 11,
+                "product_title": "Apple Watch Series 8",
+                "product_img": "https://images.unsplash.com/photo-1666350564769-34c8f6de2a64",
+                "price": 499,
+                "description": "Apple Watch Series 8 with advanced health and fitness tracking.",
+                "specification": [
+                    "Always-On Display",
+                    "ECG App",
+                    "GPS + Cellular",
+                    "Water Resistant"
+                ],
+                "availability": true,
+                "rating": 4.8
+            }
+        ]
+    }
+]

@@ -17,9 +17,9 @@ const Navbar = () => {
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
                             <li className='font-medium text-black'><NavLink>Home</NavLink></li>
                             <li className='font-medium text-black'>
-                                <NavLink>Statistics</NavLink>
+                                <NavLink to="/statics">Statistics</NavLink>
                             </li>
-                            <li className="font-medium text-black"><NavLink>DashBorad</NavLink></li>
+                            <li className="font-medium text-black"><NavLink to="/dashborad">DashBorad</NavLink></li>
                         </ul>
                     </div>
                     <Link to='/' className="text-3xl font-bold">Gadget Haven</Link>

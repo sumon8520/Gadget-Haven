@@ -1,0 +1,107 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Wireless Headphones",
+        "product_img": "https://www.ryans.com/storage/products/small/hoco-w55-ultra-max-black-bluetooth-11752409046.webp",
+        "category": "Audio",
+        "price": 120,
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "Specification": [
+            "Bluetooth 5.0",
+            "20hr Battery",
+            "Noise Cancelling"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "product_title": "Smart Watch",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5L4H3JIL41EYtwGStdwOSQIr56tSe1sQ9A&s",
+        "category": "Wearable",
+        "price": 90,
+        "description": "Stay connected and track your health with this smartwatch.",
+        "Specification": [
+            "Heart Rate Monitor",
+            "Water Resistant",
+            "GPS"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 3,
+        "product_title": "Gaming Mouse",
+        "product_img": "https://www.skyland.com.bd/image/cache/wp/gj/October23/PC%20POWER%20PCGMG17%20WIRED%20GAMING%20MOUSE-900x900.webp",
+        "category": "Accessories",
+        "price": 45,
+        "description": "Ergonomic gaming mouse with customizable DPI.",
+        "Specification": [
+            "RGB Lighting",
+            "6 Buttons",
+            "Adjustable DPI"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 4,
+        "product_title": "Mechanical Keyboard",
+        "product_img": "https://www.ultratech.com.bd/image/cache/catalog/keyboard/ziyoulang/freewolf-k87/ziyoulang-freewolf-k87-single-backlit-wired-keyboard-2-500x500.jpg",
+        "category": "Accessories",
+        "price": 80,
+        "description": "RGB backlit mechanical keyboard for gamers and professionals.",
+        "Specification": [
+            "Blue Switches",
+            "RGB Lighting",
+            "Ergonomic Design"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 5,
+        "product_title": "Bluetooth Speaker",
+        "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzm330_QXVLpQJnT6jKW3ixSYYI9Vka9t6Q&s",
+        "category": "Audio",
+        "price": 60,
+        "description": "Portable Bluetooth speaker with deep bass.",
+        "Specification": [
+            "Waterproof",
+            "12hr Battery",
+            "360° Sound"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": 6,
+        "product_title": "VR Headset",
+        "product_img": "https://cdn.mos.cms.futurecdn.net/V7233MD6ZakEqeoFw5C58D.jpg",
+        "category": "Wearable",
+        "price": 200,
+        "description": "Immersive VR headset for gaming and entertainment.",
+        "Specification": [
+            "4K Display",
+            "120Hz Refresh",
+            "Lightweight"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 7,
+        "product_title": "Wireless Charger",
+        "product_img": "https://gadgetbreeze.com.bd/wp-content/uploads/2023/12/Baseus-Simple-Wireless-Charger-15W-Updated-Version.jpg",
+        "category": "Accessories",
+        "price": 30,
+        "description": "Fast wireless charging pad for all Qi-enabled devices.",
+        "Specification": [
+            "15W Fast Charging",
+            "Slim Design",
+            "Case Friendly"
+        ],
+        "availability": true,
+        "rating": 4.2
+    }
+]

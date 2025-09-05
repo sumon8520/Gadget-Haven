@@ -10,6 +10,8 @@ import Errorpage from './Components/ErrorPage/Errorpage.jsx';
 import './index.css'
 import DashBorad from './Components/DashBorad/DashBorad.jsx';
 import Statics from './Components/Statics/Statics.jsx';
+import AllProduct from './Components/AllProduct/AllProduct.jsx';
+import AllCategory from './Components/AllCategory/AllCategory.jsx';
 
 
 const router = createBrowserRouter([
@@ -29,7 +31,7 @@ const router = createBrowserRouter([
      {
       path :'dashborad',
       element : <DashBorad></DashBorad>
-     }
+     },
     ]
   },
 ]);
